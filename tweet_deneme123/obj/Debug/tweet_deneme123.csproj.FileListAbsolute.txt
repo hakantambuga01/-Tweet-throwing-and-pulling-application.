@@ -1,0 +1,97 @@
+c:\users\hakan tambuğa\documents\visual studio 2015\Projects\tweet_deneme123\tweet_deneme123\bin\Debug\tweet_deneme123.exe.config
+c:\users\hakan tambuğa\documents\visual studio 2015\Projects\tweet_deneme123\tweet_deneme123\bin\Debug\tweet_deneme123.exe
+c:\users\hakan tambuğa\documents\visual studio 2015\Projects\tweet_deneme123\tweet_deneme123\bin\Debug\tweet_deneme123.pdb
+c:\users\hakan tambuğa\documents\visual studio 2015\Projects\tweet_deneme123\tweet_deneme123\bin\Debug\Hammock.ClientProfile.dll
+c:\users\hakan tambuğa\documents\visual studio 2015\Projects\tweet_deneme123\tweet_deneme123\bin\Debug\Newtonsoft.Json.dll
+c:\users\hakan tambuğa\documents\visual studio 2015\Projects\tweet_deneme123\tweet_deneme123\bin\Debug\TweetSharp.dll
+c:\users\hakan tambuğa\documents\visual studio 2015\Projects\tweet_deneme123\tweet_deneme123\bin\Debug\Hammock.ClientProfile.pdb
+c:\users\hakan tambuğa\documents\visual studio 2015\Projects\tweet_deneme123\tweet_deneme123\bin\Debug\Newtonsoft.Json.xml
+c:\users\hakan tambuğa\documents\visual studio 2015\Projects\tweet_deneme123\tweet_deneme123\bin\Debug\TweetSharp.pdb
+c:\users\hakan tambuğa\documents\visual studio 2015\Projects\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.csprojResolveAssemblyReference.cache
+c:\users\hakan tambuğa\documents\visual studio 2015\Projects\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.Form1.resources
+c:\users\hakan tambuğa\documents\visual studio 2015\Projects\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.Properties.Resources.resources
+c:\users\hakan tambuğa\documents\visual studio 2015\Projects\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.csproj.GenerateResource.Cache
+c:\users\hakan tambuğa\documents\visual studio 2015\Projects\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.exe
+c:\users\hakan tambuğa\documents\visual studio 2015\Projects\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\bin\Debug\tweet_deneme123.exe.config
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.exe
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\bin\Debug\tweet_deneme123.exe
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\bin\Debug\tweet_deneme123.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\bin\Debug\Hammock.ClientProfile.dll
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\bin\Debug\TweetSharp.dll
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\bin\Debug\Hammock.ClientProfile.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\bin\Debug\TweetSharp.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.csprojResolveAssemblyReference.cache
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.Form1.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.Properties.Resources.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.Spor_Form.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.csproj.GenerateResource.Cache
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.Saglik_Form.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.Ekonomi_Form.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.GİRİŞ.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\Formları ayrı olan\tweet_deneme123\tweet_deneme123\bin\Debug\tweet_deneme123.exe.config
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\Formları ayrı olan\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.exe
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\Formları ayrı olan\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\Formları ayrı olan\tweet_deneme123\tweet_deneme123\bin\Debug\tweet_deneme123.exe
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\Formları ayrı olan\tweet_deneme123\tweet_deneme123\bin\Debug\tweet_deneme123.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\Formları ayrı olan\tweet_deneme123\tweet_deneme123\bin\Debug\Hammock.ClientProfile.dll
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\Formları ayrı olan\tweet_deneme123\tweet_deneme123\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\Formları ayrı olan\tweet_deneme123\tweet_deneme123\bin\Debug\TweetSharp.dll
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\Formları ayrı olan\tweet_deneme123\tweet_deneme123\bin\Debug\Hammock.ClientProfile.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\Formları ayrı olan\tweet_deneme123\tweet_deneme123\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\Formları ayrı olan\tweet_deneme123\tweet_deneme123\bin\Debug\TweetSharp.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\Formları ayrı olan\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.csprojResolveAssemblyReference.cache
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\Formları ayrı olan\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.Ekonomi_Form.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\Formları ayrı olan\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.Form1.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\Formları ayrı olan\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.GİRİŞ.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\Formları ayrı olan\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.Properties.Resources.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\Formları ayrı olan\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.Saglik_Form.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\Formları ayrı olan\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.Spor_Form.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\Formları ayrı olan\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.csproj.GenerateResource.Cache
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\tweet_deneme123\bin\Debug\tweet_deneme123.exe.config
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.exe
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\tweet_deneme123\bin\Debug\tweet_deneme123.exe
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\tweet_deneme123\bin\Debug\tweet_deneme123.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\tweet_deneme123\bin\Debug\Hammock.ClientProfile.dll
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\tweet_deneme123\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\tweet_deneme123\bin\Debug\TweetSharp.dll
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\tweet_deneme123\bin\Debug\Hammock.ClientProfile.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\tweet_deneme123\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\tweet_deneme123\bin\Debug\TweetSharp.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.csprojResolveAssemblyReference.cache
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.Ekonomi_Form.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.Form1.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.GİRİŞ.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.Properties.Resources.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.Saglik_Form.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.Spor_Form.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\tweet_deneme123\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.csproj.GenerateResource.Cache
+C:\User\Hakan_Documents\Hakan_Projects\C#_Twitter_Projesi\tweet_deneme123\tweet_deneme123\tweet_deneme123\bin\Debug\tweet_deneme123.exe.config
+C:\User\Hakan_Documents\Hakan_Projects\C#_Twitter_Projesi\tweet_deneme123\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.exe
+C:\User\Hakan_Documents\Hakan_Projects\C#_Twitter_Projesi\tweet_deneme123\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\tweet_deneme123\tweet_deneme123\tweet_deneme123\bin\Debug\tweet_deneme123.exe.config
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\tweet_deneme123\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.exe
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\tweet_deneme123\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\tweet_deneme123\tweet_deneme123\tweet_deneme123\bin\Debug\tweet_deneme123.exe
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\tweet_deneme123\tweet_deneme123\tweet_deneme123\bin\Debug\tweet_deneme123.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\tweet_deneme123\tweet_deneme123\tweet_deneme123\bin\Debug\Hammock.ClientProfile.dll
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\tweet_deneme123\tweet_deneme123\tweet_deneme123\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\tweet_deneme123\tweet_deneme123\tweet_deneme123\bin\Debug\TweetSharp.dll
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\tweet_deneme123\tweet_deneme123\tweet_deneme123\bin\Debug\Hammock.ClientProfile.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\tweet_deneme123\tweet_deneme123\tweet_deneme123\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\tweet_deneme123\tweet_deneme123\tweet_deneme123\bin\Debug\TweetSharp.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\tweet_deneme123\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.csprojResolveAssemblyReference.cache
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\tweet_deneme123\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.Ekonomi_Form.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\tweet_deneme123\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.Form1.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\tweet_deneme123\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.GİRİŞ.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\tweet_deneme123\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.Properties.Resources.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\tweet_deneme123\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.Saglik_Form.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\tweet_deneme123\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.Spor_Form.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Twitter_Projesi\tweet_deneme123\tweet_deneme123\tweet_deneme123\obj\Debug\tweet_deneme123.csproj.GenerateResource.Cache
+C:\Users\hakan\OneDrive\Masaüstü\dwad\tweet_deneme123\bin\Debug\tweet_deneme123.exe.config
+C:\Users\hakan\OneDrive\Masaüstü\dwad\tweet_deneme123\obj\Debug\tweet_deneme123.exe
+C:\Users\hakan\OneDrive\Masaüstü\dwad\tweet_deneme123\obj\Debug\tweet_deneme123.pdb
